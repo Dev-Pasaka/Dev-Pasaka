@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-                    
-
 <h1> Pasaka Mutuku</h1>
 <br /> 
 
