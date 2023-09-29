@@ -31,11 +31,64 @@ In addition to my technical skills, I am highly skilled in agile development met
 ---
 <br />
 
-<h2>Languages and Tools</h2> 
-<p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=Kotlin, Jetpack Compose, Ktor, MongoDb, Firebase, Mysql, Temporal&perline=9"  />
-</p>
-<br />
+## Languages and Tools
+
+### Backend Tools
+- Kotlin
+- Ktor (Asynchronous Web Framework)
+- Apache Kafka
+- MongoDB
+- Cassandra
+
+### Android App Development Tools
+- Kotlin
+- Jetpack Compose
+- RoomDB
+- Retrofit
+- Ktor Client
+- Android Studio (Tools, Text Editor, Testing & Debugging)
+
+
+### Backend Tools
+
+#### Kotlin
+Kotlin is my primary programming language for backend development. It's a concise, expressive, and statically typed language that I find highly productive.
+
+#### Ktor (Asynchronous Web Framework)
+I use Ktor to build asynchronous web applications. It provides a flexible and easy-to-use framework for building high-performance, non-blocking web services.
+
+#### Apache Kafka
+Apache Kafka is my choice for building scalable and fault-tolerant event streaming applications. It enables me to process real-time data efficiently.
+
+#### MongoDB
+MongoDB is my preferred NoSQL database for its flexibility and scalability. I use it to store and manage unstructured data efficiently.
+
+#### Cassandra
+Cassandra is another NoSQL database that I work with when handling large volumes of data that require high availability and fault tolerance.
+
+### Android App Development Tools
+
+#### Kotlin
+I also use Kotlin for Android app development. It's officially supported by Google and offers concise and expressive syntax for building robust mobile apps.
+
+#### Jetpack Compose
+Jetpack Compose is a modern Android UI toolkit that simplifies the process of building user interfaces. It allows me to create dynamic and interactive UIs with ease.
+
+#### RoomDB
+RoomDB is an Android library that I use for local data storage. It provides a convenient and efficient way to work with SQLite databases.
+
+#### Retrofit
+Retrofit is a popular library for making network requests in Android apps. It helps me communicate with backend services and APIs seamlessly.
+
+#### Ktor Client
+I leverage Ktor's client library to make asynchronous HTTP requests from Android apps. It aligns with my backend development stack, making it easier to maintain consistency.
+
+#### Android Studio
+Android Studio is my go-to integrated development environment (IDE) for Android app development. It offers a comprehensive set of tools, a powerful text editor, and robust testing and debugging capabilities.
+
+Feel free to explore my GitHub repositories to see examples of projects I've worked on using these languages and tools. If you have any questions or would like to collaborate, please don't hesitate to reach out!
+
+
 --- 
 
 <h2>Connect With Me</h2> 
