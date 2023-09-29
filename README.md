@@ -76,6 +76,9 @@ Cassandra is another NoSQL database that I work with when handling large volumes
 #### Docker
 I leverage Docker for containerization and orchestration of my backend services. It allows me to package and deploy applications with all their dependencies, ensuring consistency across different environments.
 
+#### Kubernetes
+Kubernetes is my choice for container orchestration. It helps me manage and scale containerized applications efficiently, providing a robust and flexible platform for deployment.
+
 #### AWS Cloud
 I utilize the AWS Cloud platform for scalable and reliable cloud infrastructure. AWS services like EC2, S3, and Lambda play a crucial role in deploying and managing my applications in the cloud.
 
