@@ -5,7 +5,7 @@
 
 `**Digital Craftsman (Developer / Programmer)**`
 
-<p align="left">Hello, my name is Pasaka Mutuku, and I am a software engineer with a passion for creating innovative and efficient software solutions. With 2 years of experience in the industry, I have developed a strong proficiency in several programming languages and frameworks, including:
+<p align="left">Hello, my name is Pasaka Mutuku, and I am a software engineer with a passion for creating innovative and efficient software solutions. With 3 years of experience in the industry, I have developed a strong proficiency in several programming languages and frameworks, including:
 
 - **Kotlin:** I have a deep understanding of Kotlin, using it for clean and maintainable code, reducing codebase complexity by 20%.
 - **Jetpack Compose:** My expertise in Jetpack Compose has allowed me to build dynamic UIs, increasing user engagement by 30%.
