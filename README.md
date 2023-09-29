@@ -14,20 +14,6 @@
 Throughout my career, I have worked on a wide range of software projects, including web and mobile applications, distributed systems, and database management. My expertise in Kotlin and Jetpack Compose allows me to create visually stunning and highly functional user interfaces, while my experience with Ktor enables me to build reliable and scalable server-side applications. I also have extensive knowledge of database technologies such as MongoDB, Firebase, and MySQL, which enables me to design and develop efficient data storage solutions.
 
 In addition to my technical skills, I am highly skilled in agile development methodologies and enjoy working collaboratively in cross-functional teams. I am always eager to learn new technologies and stay up-to-date with the latest trends in the industry. If you're looking for a dedicated software engineer who can help you bring your ideas to life, please don't hesitate to get in touch.</p>
-<p align="left"> 
-  <a href="https://github.com/Dev-Pasaka?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Dev-Pasaka?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
-  
-  <a href="https://github.com/Dev-Pasaka?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Dev-Pasaka?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
-  
-  <a href="https://github.com/Dev-Pasaka?tab=followers#gh-light-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Dev-Pasaka?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
-    
-  <a href="https://github.com/Dev-Pasaka?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Dev-Pasaka?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
-</p>
-
 ---
 <br />
 
