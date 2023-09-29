@@ -31,50 +31,12 @@ In addition to my technical skills, I am highly skilled in agile development met
 ---
 <br />
 
-                    
-
 <h2>Languages and Tools</h2> 
 <p align="left">
 <img width="280px"  src="https://skillicons.dev/icons?i=Kotlin, Jetpack Compose, Ktor, MongoDb, Firebase, Mysql, Temporal&perline=9"  />
 </p>
 <br />
-
-                    
-
-<p><a href="https://github.com/Dev-Pasaka#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Pasaka&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Dev-Pasaka" /></a>
-  <a href="https://github.com/Dev-Pasaka#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Pasaka&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Dev-Pasaka" /></a>
-</p>
-
-<br />
-
-<p>&nbsp;<a href="https://github.com/Dev-Pasaka#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Pasaka&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="Dev-Pasaka" /></a>
-<a href="https://github.com/Dev-Pasaka#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Pasaka&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="Dev-Pasaka" /></a>
-</p> 
-<br>
-<br />
-
-<p><a href="https://github.com/Dev-Pasaka#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Dev-Pasaka&theme=nightowl#gh-dark-mode-only" alt="Dev-Pasaka"/></a>
-<a href="https://github.com/Dev-Pasaka#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Dev-Pasaka&theme=vue#gh-light-mode-only" alt="Dev-Pasaka"/></a></p>
-<br/>
-<br />
-
-<p><a href="https://github.com/Dev-Pasaka#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dev-Pasaka&theme=nightowl#gh-dark-mode-only" alt="Dev-Pasaka" /></a>
-<a href="https://github.com/Dev-Pasaka#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dev-Pasaka&theme=vue#gh-light-mode-only" alt="Dev-Pasaka" /></a></p>
-<br/>
-
----
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/Dev-Pasaka/https://github.com/Dev-Pasaka/COINX#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Pasaka&repo=https://github.com/Dev-Pasaka/COINX&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/Dev-Pasaka/https://github.com/Dev-Pasaka/COINX#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Pasaka&repo=https://github.com/Dev-Pasaka/COINX&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-                    
+--- 
 
 <h2>Connect With Me</h2> 
 <p align="left">
