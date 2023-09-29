@@ -14,7 +14,7 @@
 Throughout my career, I have worked on a wide range of software projects, including web and mobile applications, distributed systems, and database management. My expertise in Kotlin and Jetpack Compose allows me to create visually stunning and highly functional user interfaces, while my experience with Ktor enables me to build reliable and scalable server-side applications. I also have extensive knowledge of database technologies such as MongoDB, Firebase, and MySQL, which enables me to design and develop efficient data storage solutions.
 
 In addition to my technical skills, I am highly skilled in agile development methodologies and enjoy working collaboratively in cross-functional teams. I am always eager to learn new technologies and stay up-to-date with the latest trends in the industry. If you're looking for a dedicated software engineer who can help you bring your ideas to life, please don't hesitate to get in touch.</p>
----
+
 <br />
 
 ## Languages and Tools
