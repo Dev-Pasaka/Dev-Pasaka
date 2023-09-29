@@ -5,14 +5,14 @@
 
 `**Digital Craftsman (Developer / Programmer)**`
 
-<p align="left">Hello, my name is Pasaka Mutuku, and I am a software engineer with a passion for creating innovative and efficient software solutions. With 3 years of experience in the industry, I have developed a strong proficiency in several programming languages and frameworks, including:
+<p align="left">Hello, my name is Pasaka Mutuku, and I am a software engineer with a passion for creating innovative and efficient software solutions. With 2 years of experience in the industry, I have developed a strong proficiency in several programming languages and frameworks, including:
 
 - **Kotlin:** I have a deep understanding of Kotlin, using it for clean and maintainable code, reducing codebase complexity by 20%.
 - **Jetpack Compose:** My expertise in Jetpack Compose has allowed me to build dynamic UIs, increasing user engagement by 30%.
 - **Ktor:** I've leveraged Ktor to develop robust and scalable RESTful APIs, resulting in a 30% reduction in response times.
 - **MongoDB, Firebase, MySQL:** Proficiently managing these databases, I achieved a 20% reduction in query latency and maintained a 99.99% uptime rate.
 - **Docker & Kubernetes:** I've designed and developed microservices using Docker and Kubernetes, reducing deployment time by 40% and ensuring system stability.
-- **Temporal:** My proficiency extends to Temporal, a powerful framework for building fault-tolerant and scalable distributed applications.
+- **Apache Kafka:** I have engineered Apache Kafka integration for real-time data streaming and processing, reducing data latency by 25%.
 
 Throughout my career, I have had the opportunity to work on a diverse range of software projects, each contributing to my growth as a developer:
 
@@ -29,6 +29,7 @@ I am committed to staying at the forefront of technology trends and continuously
 If you're looking for a dedicated software engineer who can help you bring your ideas to life and drive your projects to success, please don't hesitate to get in touch.</p>
 
 <br />
+
 
 ## Languages and Tools
 
